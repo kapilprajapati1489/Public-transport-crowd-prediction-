@@ -1,0 +1,6 @@
+{
+  "name": "Public Transport Crowd Predictor",
+  "description": "Machine-learning-based transit crowd prediction and analytics platform for buses, trains, and metro networks with mobile and desktop views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
